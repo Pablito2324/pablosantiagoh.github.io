@@ -67,3 +67,10 @@ footer {
   color: #777;
   margin-top: 80px;
 }
+.caption {
+  font-size: 0.85em;
+  color: #666;
+  margin-top: -10px;
+  margin-bottom: 15px;
+  font-style: italic;
+}
